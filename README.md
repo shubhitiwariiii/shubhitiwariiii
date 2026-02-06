@@ -2,10 +2,6 @@
   🌈✨ Shubhi Tiwari ✨🌈
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF61D2&center=true&vCenter=true&width=700&lines=DSA+Learner+🚀;AIML+Explorer+🤖;Future+Software+Engineer+💻;Consistency+Over+Motivation+🔥;Building+My+Dream+Career+✨" />
-</p>
-
 ---
 
 ## 🎀 About Me
