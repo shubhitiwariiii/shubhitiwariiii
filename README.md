@@ -1,92 +1,92 @@
-<h1 align="center">Hi 👋, I'm Shubhi Tiwari</h1>
-<h3 align="center">🚀 DSA Learner | AIML Explorer | Future Software Engineer</h3>
+<h1 align="center">
+  🌈✨ Shubhi Tiwari ✨🌈
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Passionate+Coder;DSA+Practice+Daily;Learning+AIML;Building+Cool+Projects;Always+Improving+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF61D2&center=true&vCenter=true&width=700&lines=DSA+Learner+🚀;AIML+Explorer+🤖;Future+Software+Engineer+💻;Consistency+Over+Motivation+🔥;Building+My+Dream+Career+✨" />
 </p>
 
 ---
 
-## 🌸 About Me
+## 🎀 About Me
 
-✨ I love solving **Data Structures & Algorithms** problems  
-🤖 Currently learning **AI / ML**  
-💻 Building projects in **Web + Python**  
-📚 Practicing coding daily to improve problem solving  
-🎯 Goal: Become a strong Software Engineer
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
+🌸 Passionate about coding & problem solving  
+📚 Practicing DSA daily  
+🤖 Learning AI / ML  
+💻 Building Web + Python projects  
+🎯 Goal → Become a strong Software Engineer  
+✨ Believe in small daily improvement
 
-## 🛠️ Tech Stack
-
-### 👩‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### 📚 Currently Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 📈 GitHub Stats
+## 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=10" height="160"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,tensorflow,git,github,vscode&theme=light" />
 </p>
 
 ---
 
-## 🧠 Coding Practice
+## 🌟 GitHub Stats
 
-🏆 Solving problems daily on:
-- LeetCode
-- CodeStudio
-- GeeksforGeeks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyonight&border_radius=15"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhitiwariiii&theme=tokyonight&border_radius=15"/>
+</p>
 
-> *Consistency > Motivation*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhitiwariiii&layout=compact&theme=tokyonight&border_radius=15"/>
+</p>
+
+---
+
+## 🧠 Coding Journey
+
+🌈 Solving problems daily on:
+
+✨ LeetCode  
+✨ CodeStudio  
+✨ GeeksforGeeks  
+
+> 🔥 *Consistency beats talent when talent doesn’t work hard*
 
 ---
 
 ## 🚀 Featured Projects
 
-✨ AIML Projects  
-✨ DSA Practice Repository  
-✨ Full Stack Web Development  
-✨ Python OOP Concepts  
+💎 AIML Projects  
+💎 DSA Practice Repository  
+💎 Full Stack Web Development  
+💎 Python OOP Concepts  
 
-👉 More coming soon…
+More exciting projects coming soon… ✨
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+<a href="https://github.com/shubhitiwariiii">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 💬 Quote I Believe In
+## 💬 Favorite Quote
 
-> *"Small steps every day lead to big success."*
+<p align="center">
+✨ <i>"Small progress each day adds up to big results."</i> ✨
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+  💖 Thanks for visiting my colorful world 💖
 </p>
+
 
