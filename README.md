@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌈✨ Shubhi Tiwari ✨🌈
+  Shubhi Tiwari
 </h1>
 
 ---
@@ -31,8 +31,7 @@
 
 🌈 Solving problems daily on:
 
-✨ LeetCode  
-✨ CodeStudio  
+✨ LeetCode   
 ✨ GeeksforGeeks  
 
 > 🔥 *Consistency beats talent when talent doesn’t work hard*
