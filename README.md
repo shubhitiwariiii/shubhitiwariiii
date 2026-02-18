@@ -4,7 +4,7 @@
 
 ---
 
-## 🎀 About Me
+## About Me
 
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -68,7 +68,7 @@ More exciting projects coming soon… ✨
 ---
 
 <p align="center">
-  💖 Thanks for visiting my colorful world 💖
+  💖 Thanks for visiting my profile. 💖
 </p>
 
 
