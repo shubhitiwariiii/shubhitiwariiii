@@ -62,7 +62,7 @@ More exciting projects coming soon… ✨
 ## 💬 Favorite Quote
 
 <p align="center">
-✨ <i>"Small progress each day adds up to big results."</i> ✨
+✨ <i>"Keep Doing things that matter to you , no matter what."</i> ✨
 </p>
 
 ---
