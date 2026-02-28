@@ -46,14 +46,6 @@ Full Stack Developer in Progress | DSA Learner | AI/ML Explorer
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhitiwariiii&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
