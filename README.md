@@ -1,74 +1,73 @@
-<h1 align="center">
-  Shubhi Tiwari
-</h1>
+<!-- PREMIUM DARK PROFESSIONAL PROFILE -->
 
----
-
-## About Me
-
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🌸 Passionate about coding & problem solving  
-📚 Practicing DSA daily  
-🤖 Learning AI / ML  
-💻 Building Web + Python projects  
-🎯 Goal → Become a strong Software Engineer  
-✨ Believe in small daily improvement
-
-<br clear="right"/>
-
----
-
-## 🎨 Tech Stack
+<h1 align="center">Shubhi Tiwari</h1>
+<h3 align="center">Full Stack Developer in Progress | JavaScript & Node.js Explorer</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,tensorflow,git,github,vscode&theme=light" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Passionate+About+Clean+Code;Learning+Every+Day;Future+Full+Stack+Engineer" />
 </p>
 
 ---
 
-## 🧠 Coding Journey
+## 👩‍💻 About Me
 
-🌈 Solving problems daily on:
-
-✨ LeetCode   
-✨ GeeksforGeeks  
-
-> 🔥 *Consistency beats talent when talent doesn’t work hard*
-
----
-
-## 🚀 Featured Projects
-
-💎 AIML Projects  
-💎 DSA Practice Repository  
-💎 Full Stack Web Development  
-💎 Python OOP Concepts  
-
-More exciting projects coming soon… ✨
+- 🌱 Currently mastering **Node.js & Backend Development**
+- 💡 Strong interest in **Problem Solving & DSA**
+- 🚀 Focused on becoming a **Full Stack Engineer**
+- 📍 India
+- 📩 Contact: **shubhitiwari0132@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tech Stack
 
 <p align="center">
-<a href="https://github.com/shubhitiwariiii">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cpp,git,github,vscode&perline=9" />
 </p>
 
 ---
 
-## 💬 Favorite Quote
+## 📊 GitHub Analytics
 
 <p align="center">
-✨ <i>"Keep Doing things that matter to you , no matter what."</i> ✨
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhitiwariiii&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhitiwariiii&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=react-dark&hide_border=true" />
+</p>
+
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:shubhitiwari0132@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/shubhitiwariiii">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  💖 Thanks for visiting my profile. 💖
+  ⭐ Building. Learning. Growing.  
 </p>
 
 
