@@ -30,10 +30,10 @@ Full-Stack Developer | Data Structures & Algorithms | AI/ML Enthusiast
 
 ## 🚀 Currently Working On
 
-- 🔹 Completing Striver A2Z DSA Sheet  
-- 🔹 Solving LeetCode problems topic-wise  
-- 🔹 Improving system design fundamentals  
-- 🔹 Building scalable full-stack projects  
+🔹 Completing Striver A2Z DSA Sheet  
+🔹 Solving LeetCode problems topic-wise  
+🔹 Improving system design fundamentals  
+🔹 Building scalable full-stack projects  
 
 ---
 
@@ -43,11 +43,11 @@ Full-Stack Developer | Data Structures & Algorithms | AI/ML Enthusiast
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,tensorflow,git,github,vscode,mongodb&theme=dark" />
 </p>
 
-- 🔹**Languages:** C++, JavaScript, Python  
-- 🔹**Frontend:** HTML, CSS, React  
-- 🔹**Backend:** Node.js, Express  
-- 🔹**Database:** MongoDB  
-- 🔹**Tools:** Git, GitHub, VS Code  
+🔹**Languages:** C++, JavaScript, Python  
+🔹**Frontend:** HTML, CSS, React  
+🔹**Backend:** Node.js, Express  
+🔹**Database:** MongoDB  
+🔹**Tools:** Git, GitHub, VS Code  
 
 ---
 
@@ -70,9 +70,9 @@ Full-Stack Developer | Data Structures & Algorithms | AI/ML Enthusiast
 
 ## 🚀 Featured Projects
 
-- 🔹 **DSA-Cpp** – Structured C++ implementations covering Arrays, Linked List, Stack, Queue, Greedy & Recursion patterns.  
-- 🔹 **LeetcodeProblems** – Topic-wise optimized C++ solutions with pattern-based learning approach.  
-- 🔹 **Full-Stack Projects** – React + Node.js applications with MongoDB integration and REST APIs.  
+🔹 **DSA-Cpp** – Structured C++ implementations covering Arrays, Linked List, Stack, Queue, Greedy & Recursion patterns.  
+🔹 **LeetcodeProblems** – Topic-wise optimized C++ solutions with pattern-based learning approach.  
+🔹 **Full-Stack Projects** – React + Node.js applications with MongoDB integration and REST APIs.  
 
 More advanced projects coming soon...
 
@@ -82,9 +82,9 @@ More advanced projects coming soon...
 
 ✨ Actively solving problems on:
 
-- 🔹 LeetCode  
-- 🔹 GeeksforGeeks
-- 🔹 CodeChef 
+🔹 LeetCode  
+🔹 GeeksforGeeks
+🔹 CodeChef 
 
 ---
 
