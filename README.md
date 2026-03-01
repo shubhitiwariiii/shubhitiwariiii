@@ -99,11 +99,11 @@ More advanced projects coming soon...
     <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://linkedin.com/in/shubhi-tiwari">
+  <a href="https://www.linkedin.com/in/shubhi-tiwari-664553329"/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://leetcode.com/u/shubhitiwariiii/">
+  <a href="https://leetcode.com/u/shubhitiwariiii"/>
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
