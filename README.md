@@ -102,8 +102,8 @@ I’m a developer focused on **shipping reliable software** and strengthening fu
 ## Coding profiles
 
 - LeetCode: https://leetcode.com/u/shubhitiwariiii  
-- CodeChef  
-- GeeksforGeeks  
+- CodeChef: https://www.codechef.com/users/shubhi_24  
+- GeeksforGeeks: https://geeksforgeeks.com/profile/shubhitiwariiii
 
 ---
 
