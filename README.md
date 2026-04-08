@@ -2,114 +2,133 @@
 
 <h1 align="center">Shubhi Tiwari</h1>
 
-<h3 align="center">
-Full-Stack Developer | Data Structures & Algorithms | AI/ML Enthusiast
-</h3>
+<p align="center">
+  <b>SDE‑1 (Full‑Stack/Backend) • ML / AI Engineer</b><br/>
+  Building scalable backend systems and applied AI projects (speech + ML + LLMs).
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Passionate+about+Coding+%26+Problem+Solving;Building+Scalable+Web+Applications;Practicing+DSA+Consistently;Aspiring+Software+Engineer" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+SDE-1+%7C+ML%2FAI+Engineer;Building+secure+APIs+and+scalable+web+apps;Applied+ML+%2B+Voice+Assistants+%2B+LLM+Tooling;DSA+Practice+%7C+System+Design+Foundations"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="155" alt="Coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🌸 Passionate about building efficient and scalable software solutions  
-📈 Consistently strengthening Data Structures & Algorithms fundamentals  
-🤖 Exploring AI/ML concepts and practical implementations  
-💻 Developing full-stack applications using modern technologies  
-🎯 Focused on becoming a highly skilled Software Engineer  
+I’m a developer focused on **shipping reliable software** and strengthening fundamentals in **DSA, system design, and applied ML/AI**.
 
-✨ Strong believer in disciplined, consistent improvement.
+- **Backend / Full‑Stack:** Node.js, Express, MongoDB (Mongoose), REST APIs, JWT authentication
+- **ML/AI:** Python, scikit‑learn (Naive Bayes, CountVectorizer), voice pipelines, LLM tooling (Ollama + LLaMA3)
+- **DSA:** consistent practice with pattern-based learning
+
+**Target roles:** SDE‑1 (Full‑Stack/Backend) • ML Engineer • AI Engineer
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Currently Working On
+## What I’m working on
 
-🔹 Completing Striver A2Z DSA Sheet  
-🔹 Solving LeetCode problems topic-wise  
-🔹 Improving system design fundamentals  
-🔹 Building scalable full-stack projects  
+- Striver **A2Z DSA Sheet** + topic‑wise practice
+- **LeetCode** problem solving (patterns + clean solutions)
+- System design fundamentals (APIs, databases, scalability)
+- Building production‑style projects with clean architecture
 
 ---
 
-## 🛠 Tech Stack
+## Tech stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,tensorflow,git,github,vscode,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
-🔹**Languages:** C++, JavaScript, Python  
-🔹**Frontend:** HTML, CSS, React  
-🔹**Backend:** Node.js, Express  
-🔹**Database:** MongoDB  
-🔹**Tools:** Git, GitHub, VS Code  
+- **Languages:** C++, Python, JavaScript  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB (Mongoose)  
+- **Auth/Security:** JWT, bcrypt  
+- **ML/AI:** scikit‑learn, SpeechRecognition, pyttsx3, Ollama (LLaMA3)  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhitiwariiii&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shubhitiwariiii&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=react-dark&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=react-dark&hide_border=true"
+    alt="Contribution graph"
+  />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured projects
 
-🔹 **DSA-Cpp** – Structured C++ implementations covering Arrays, Linked List, Stack, Queue, Greedy & Recursion patterns.  
-🔹 **LeetcodeProblems** – Topic-wise optimized C++ solutions with pattern-based learning approach.  
-🔹 **Full-Stack Projects** – React + Node.js applications with MongoDB integration and REST APIs.  
+- **AI Home Service** — Full‑stack service platform with secure authentication and database-backed APIs.  
+  Repo: https://github.com/shubhitiwariiii/ai-home-service  
+  **Tech:** Node.js • Express • MongoDB (Mongoose) • JWT • bcrypt  
+  **What I built:** RESTful backend with JWT auth, password hashing (bcrypt), and persistent data modeling using Mongoose.
 
-More advanced projects coming soon...
-
----
-
-## 🧠 Coding Platforms
-
-✨ Actively solving problems on:
-
-🔹 LeetCode  
-🔹 GeeksforGeeks
-🔹 CodeChef 
+- **Personalized Voice Assistant** — Desktop voice assistant with speech I/O, ML-based intent classification, and local LLM responses.  
+  Repo: https://github.com/shubhitiwariiii/personalized-voice-assistant  
+  **Tech:** Python • scikit‑learn (Naive Bayes, CountVectorizer) • SpeechRecognition • pyttsx3 • Ollama (LLaMA3) • Tkinter • JSON  
+  **What I built:** voice input/output pipeline, intent detection with classic ML, and an assistant workflow that routes requests to actions with a lightweight JSON memory store.
 
 ---
 
-## 📫 Connect With Me  
+## Coding profiles
+
+- LeetCode: https://leetcode.com/u/shubhitiwariiii  
+- CodeChef  
+- GeeksforGeeks  
+
+---
+
+## Connect
 
 <p align="center">
   <a href="https://github.com/shubhitiwariiii">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
+
   <a href="mailto:shubhitiwari0132@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/shubhi-tiwari-664553329"/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/shubhi-tiwari-664553329">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  <a href="https://leetcode.com/u/shubhitiwariiii"/>
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+  <a href="https://leetcode.com/u/shubhitiwariiii">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Building • Learning • Growing Consistently  
+  <b>Building • Learning • Improving — consistently</b>
 </p>
