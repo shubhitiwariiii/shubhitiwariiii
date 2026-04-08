@@ -103,7 +103,7 @@ I’m a developer focused on **shipping reliable software** and strengthening fu
 
 - LeetCode: https://leetcode.com/u/shubhitiwariiii  
 - CodeChef: https://www.codechef.com/users/shubhi_24  
-- GeeksforGeeks: https://geeksforgeeks.com/profile/shubhitiwariiii
+- GeeksforGeeks: https://geeksforgeeks.org/profile/shubhitiwariiii
 
 ---
 
