@@ -61,11 +61,6 @@ I’m a developer focused on **shipping reliable software** and strengthening fu
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub stats"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=shubhitiwariiii&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub streak"
