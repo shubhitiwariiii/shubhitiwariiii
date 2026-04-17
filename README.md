@@ -82,11 +82,6 @@ I’m a developer focused on **shipping reliable software** and strengthening fu
 
 ## Featured projects
 
-- **AI Home Service** — Full‑stack service platform with secure authentication and database-backed APIs.  
-  Repo: https://github.com/shubhitiwariiii/ai-home-service  
-  **Tech:** Node.js • Express • MongoDB (Mongoose) • JWT • bcrypt  
-  **What I built:** RESTful backend with JWT auth, password hashing (bcrypt), and persistent data modeling using Mongoose.
-
 - **Personalized Voice Assistant** — Desktop voice assistant with speech I/O, ML-based intent classification, and local LLM responses.  
   Repo: https://github.com/shubhitiwariiii/personalized-voice-assistant  
   **Tech:** Python • scikit‑learn (Naive Bayes, CountVectorizer) • SpeechRecognition • pyttsx3 • Ollama (LLaMA3) • Tkinter • JSON  
