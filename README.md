@@ -3,7 +3,6 @@
 <h1 align="center">Shubhi Tiwari</h1>
 
 <p align="center">
-  <b>SDE‑1 (Full‑Stack/Backend) • ML / AI Engineer</b><br/>
   Building scalable backend systems and applied AI projects (speech + ML + LLMs).
 </p>
 
