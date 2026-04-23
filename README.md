@@ -25,8 +25,6 @@ I’m a developer focused on **shipping reliable software** and strengthening fu
 - **ML/AI:** Python, scikit‑learn (Naive Bayes, CountVectorizer), voice pipelines, LLM tooling (Ollama + LLaMA3)
 - **DSA:** consistent practice with pattern-based learning
 
-**Target roles:** SDE‑1 (Full‑Stack/Backend) • ML Engineer • AI Engineer
-
 <br clear="right"/>
 
 ---
