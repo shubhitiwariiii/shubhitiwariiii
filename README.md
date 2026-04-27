@@ -1,14 +1,12 @@
-<!-- ================== PROFESSIONAL DARK PROFILE ================== -->
-
 <h1 align="center">Shubhi Tiwari</h1>
 
 <p align="center">
-  Building scalable backend systems and applied AI projects (speech + ML + LLMs).
+  CS undergrad (AI & ML) · Building projects, grinding DSA, learning how things actually work.
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+SDE-1+%7C+ML%2FAI+Engineer;Building+secure+APIs+and+scalable+web+apps;Applied+ML+%2B+Voice+Assistants+%2B+LLM+Tooling;DSA+Practice+%7C+System+Design+Foundations"
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=800&lines=CS+student+%7C+AI+%26+ML+specialization;Full-Stack+%7C+Backend+%7C+Applied+ML;DSA+%7C+System+Design+%7C+CS+Fundamentals;Open+to+internships+and+SDE+roles"
     alt="Typing SVG"
   />
 </p>
@@ -17,40 +15,60 @@
 
 ## About
 
-<img align="right" height="155" alt="Coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="150" alt="Coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I’m a developer focused on **shipping reliable software** and strengthening fundamentals in **DSA, system design, and applied ML/AI**.
+3rd-year CS student specializing in AI & ML at GCET Greater Noida. I build full-stack and ML projects to learn by doing, and I'm working through DSA systematically to prepare for placements.
 
-- **Backend / Full‑Stack:** Node.js, Express, MongoDB (Mongoose), REST APIs, JWT authentication
-- **ML/AI:** Python, scikit‑learn (Naive Bayes, CountVectorizer), voice pipelines, LLM tooling (Ollama + LLaMA3)
-- **DSA:** consistent practice with pattern-based learning
+Right now I'm focused on:
+- Getting solid at DSA (Striver's A2Z + LeetCode)
+- Building projects that touch real problems
+- Understanding CS fundamentals properly (not just syntax)
 
 <br clear="right"/>
 
 ---
 
-## What I’m working on
+## Tech I work with
 
-- Striver **A2Z DSA Sheet** + topic‑wise practice
-- **LeetCode** problem solving (patterns + clean solutions)
-- System design fundamentals (APIs, databases, scalability)
-- Building production‑style projects with clean architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+</p>
+
+**Languages:** C++, Python, JavaScript  
+**Web:** React, Node.js, Express, MongoDB, JWT, bcrypt  
+**ML/AI:** scikit-learn, SpeechRecognition, pyttsx3, Ollama (LLaMA3), Gemini AI  
+**Tools:** Git, GitHub, VS Code, Firebase
 
 ---
 
-## Tech stack
+## Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
-</p>
+### 🔬 HealthLens — AI Medical Report Analyzer
+> Built at HackDays 2026
 
-- **Languages:** C++, Python, JavaScript  
-- **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB (Mongoose)  
-- **Auth/Security:** JWT, bcrypt  
-- **ML/AI:** scikit‑learn, SpeechRecognition, pyttsx3, Ollama (LLaMA3)  
-- **Tools:** Git, GitHub, VS Code  
+Upload a medical report → get a plain-language explanation powered by Google Gemini AI.  
+Handles PDF parsing, Firebase auth, and a clean React UI.
+
+**Tech:** React 19 · Node.js · Google Gemini AI · Firebase · Tailwind CSS  
+**Repo:** [github.com/AnubhavGitHub07/HealthLens](https://github.com/AnubhavGitHub07/HealthLens)
+
+---
+
+### 🎙️ Personalized Voice Assistant
+
+Desktop voice assistant with speech I/O, ML-based intent classification (Naive Bayes + CountVectorizer), and local LLM responses via Ollama.  
+Built the full pipeline: mic input → intent detection → action routing → voice output.
+
+**Tech:** Python · scikit-learn · SpeechRecognition · pyttsx3 · Ollama (LLaMA3) · Tkinter  
+**Repo:** [github.com/shubhitiwariiii/personalized-voice-assistant](https://github.com/shubhitiwariiii/personalized-voice-assistant)
+
+---
+
+## Currently learning
+
+- Binary Search → Strings → Linked Lists → Recursion (A2Z sheet order)
+- System design basics (APIs, databases, caching)
+- OOP with Java (Java 7–17 features)
 
 ---
 
@@ -64,10 +82,6 @@ I’m a developer focused on **shipping reliable software** and strengthening fu
   />
 </p>
 
----
-
-## Contribution activity
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=react-dark&hide_border=true"
@@ -77,19 +91,11 @@ I’m a developer focused on **shipping reliable software** and strengthening fu
 
 ---
 
-## Featured projects
-
-- **Personalized Voice Assistant** — Desktop voice assistant with speech I/O, ML-based intent classification, and local LLM responses.  
-  Repo: https://github.com/shubhitiwariiii/personalized-voice-assistant  
-  **Tech:** Python • scikit‑learn (Naive Bayes, CountVectorizer) • SpeechRecognition • pyttsx3 • Ollama (LLaMA3) • Tkinter • JSON  
-  **What I built:** voice input/output pipeline, intent detection with classic ML, and an assistant workflow that routes requests to actions with a lightweight JSON memory store.
-
----
-
 ## Coding profiles
 
-- CodeChef: https://www.codechef.com/users/shubhi_24  
-- GeeksforGeeks: https://geeksforgeeks.org/profile/shubhitiwariiii
+- **LeetCode:** [shubhitiwariiii](https://leetcode.com/shubhitiwariiii)
+- **CodeChef:** [shubhi_24](https://www.codechef.com/users/shubhi_24)
+- **GeeksforGeeks:** [shubhitiwariiii](https://geeksforgeeks.org/profile/shubhitiwariiii)
 
 ---
 
@@ -97,20 +103,12 @@ I’m a developer focused on **shipping reliable software** and strengthening fu
 
 <p align="center">
   <a href="https://github.com/shubhitiwariiii">
-    <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="mailto:shubhitiwari0132@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/shubhi-tiwari-664553329">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <b>Building • Learning • Improving — consistently</b>
 </p>
