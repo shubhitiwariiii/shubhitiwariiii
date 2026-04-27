@@ -1,71 +1,75 @@
-<!-- ================= HEADER ================= -->
 <h1 align="center">Shubhi Tiwari</h1>
 
 <p align="center">
-  Backend Developer · Applied AI · DSA
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=2&section=header"/>
+  Backend Developer • AI/ML (Applied) • DSA Practice
 </p>
 
 ---
 
 ## About
 
-Backend-focused developer working on APIs and small-scale AI integrations.  
-Interested in system design, problem solving, and building practical applications.
+- Backend development using Node.js and Express  
+- Experience with MongoDB and REST APIs  
+- Working on small ML integrations (classification, basic NLP)  
+- Practicing DSA and learning system design  
 
 ---
 
-## Work
+## Current Work
 
-- Practicing DSA (Striver A2Z Sheet)  
-- Building backend services with Node.js and Express  
-- Exploring LLM workflows using local models  
+- Striver A2Z DSA Sheet  
+- Backend projects with structured architecture  
+- Exploring LLM-based workflows (local models)  
 
 ---
 
-## Stack
-Languages : C++, Python, JavaScript
-Backend : Node.js, Express
-Frontend : React, HTML, CSS
-Database : MongoDB (Mongoose)
-Auth : JWT, bcrypt
-ML/AI : scikit-learn, SpeechRecognition, pyttsx3
-Tools : Git, GitHub, VS Code
+## Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,mongodb,react,git,github,vscode&theme=dark" />
+</p>
+
+**Languages:** C++, Python, JavaScript  
+**Backend:** Node.js, Express  
+**Frontend:** React, HTML, CSS  
+**Database:** MongoDB (Mongoose)  
+**Auth:** JWT, bcrypt  
+**ML/AI:** scikit-learn, SpeechRecognition, pyttsx3  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
 ## Project
 
-**Personalized Voice Assistant**  
-https://github.com/shubhitiwariiii/personalized-voice-assistant  
+### Personalized Voice Assistant
 
-- Voice input to action pipeline  
+[Repository](https://github.com/shubhitiwariiii/personalized-voice-assistant)
+
+- Voice input → text → action → speech output  
 - Intent classification using Naive Bayes  
-- Local LLM responses (Ollama)  
+- Local LLM integration (Ollama)  
 - JSON-based context storage  
 
 ---
 
-## Profiles
+## Coding Profiles
 
-CodeChef: https://www.codechef.com/users/shubhi_24  
-GeeksforGeeks: https://geeksforgeeks.org/profile/shubhitiwariiii  
-Leetcode: https://leetcode.com/shubhitiwariiii  
+- CodeChef: https://www.codechef.com/users/shubhi_24  
+- GeeksforGeeks: https://geeksforgeeks.org/profile/shubhitiwariiii
+- Leetcode: https://leetcode.com/profile/shubhitiwariiii  
+
 ---
 
 ## Contact
 
-Email: shubhitiwari0132@gmail.com  
-LinkedIn: https://www.linkedin.com/in/shubhi-tiwari-664553329  
-GitHub: https://github.com/shubhitiwariiii  
- 
+<p>
+  Email: shubhitiwari0132@gmail.com <br/>
+  LinkedIn: https://www.linkedin.com/in/shubhi-tiwari-664553329 <br/>
+  GitHub: https://github.com/shubhitiwariiii
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=footer"/>
+  Building consistently and improving fundamentals
 </p>
