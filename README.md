@@ -3,7 +3,7 @@
 <h1 align="center">Shubhi Tiwari</h1>
 
 <p align="center">
-  Building scalable backend systems and applied AI projects (speech + ML + LLMs).
+  Building scalable backend systems and applied AI projects.
 </p>
 
 <p align="center">
