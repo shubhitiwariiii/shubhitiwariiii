@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+SDE-1+%7C+ML%2FAI+Engineer;Building+secure+APIs+and+scalable+web+apps;Applied+ML+%2B+Voice+Assistants+%2B+LLM+Tooling;DSA+Practice+%7C+System+Design+Foundations"
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Building+secure+APIs+and+scalable+web+apps;DSA+Practice+%7C"
     alt="Typing SVG"
   />
 </p>
