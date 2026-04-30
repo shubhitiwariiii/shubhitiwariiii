@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Building+secure+APIs+and+scalable+web+apps;DSA+Practice+%7C"
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Building+secure+APIs+and+scalable+web+apps;DSA+Practice"
   />
 </p>
 
