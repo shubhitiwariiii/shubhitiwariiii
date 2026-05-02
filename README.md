@@ -63,19 +63,19 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 ---
 
 
-## GitHub stats
+`## GitHub stats`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhitiwariiii&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="165"/>
-</p>
+`<p align="center">`
+ ` <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" height="165"/>`
+  `<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhitiwariiii&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="165"/>
+`</p>`
 
 ---
 
 ## Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=false&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
 </p>
 
 ---
