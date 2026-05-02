@@ -17,7 +17,7 @@
 
 I build backend systems that actually hold up — clean APIs, solid auth, and occasionally, AI that does something useful.
 
-Currently in my 2nd year of CS (AI & ML specialization), based in India. I take on **remote work and freelance projects** — if you need a backend built right, let's talk.
+Currently in my 2nd year of CS (AI & ML specialization). I take on **remote work and freelance projects** — if you need a backend built right, let's talk.
 
 - **Backend:** Node.js · Express · MongoDB · REST APIs · JWT · bcrypt  
 - **AI/ML:** Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API  
@@ -62,28 +62,28 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 
 ---
 
-## Project showcase
-
-<p align="center">
-  <a href="https://github.com/AnubhavGitHub07/HealthLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavGitHub07&repo=HealthLens&theme=tokyo-night&hide_border=true" />
-  </a>
-  <a href="https://github.com/shubhitiwariiii/personalized-voice-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhitiwariiii&repo=personalized-voice-assistant&theme=tokyo-night&hide_border=true" />
-  </a>
-</p>
-
----
 
 ## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhitiwariiii&layout=compact&theme=tokyo-night&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhitiwariiii&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="165"/>
 </p>
+
+---
+
+## Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Contribution graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -95,6 +95,7 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 </p>
 
 ---
+
 
 ## Currently working on
 
