@@ -3,10 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=shubhitiwariiii&color=0ea5e9&style=flat-square&label=Profile+views" />
 </p>
 
-<!-- Name -->
-<h1 align="center">Hey, I'm Shubhi Tiwari </h1>
+<h1 align="center">Hey, I'm Shubhi Tiwari 👋</h1>
 
-<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+Developer;REST+APIs+%7C+Auth+%7C+Node.js;Applied+AI+%7C+Python+%7C+scikit-learn;Open+to+remote+work+%26+freelance" />
 </p>
@@ -17,13 +15,13 @@
 
 I build backend systems that actually hold up — clean APIs, solid auth, and occasionally, AI that does something useful.
 
-Currently in my 2nd year of CS (AI & ML specialization). I take on **remote work and freelance projects** — if you need a backend built right, let's talk.
+Currently in my 3rd year of CS (AI & ML specialization). I take on **remote work and freelance projects** — if you need a backend built right, let's talk.
 
-- **Backend:** Node.js · Express · MongoDB · REST APIs · JWT · bcrypt  
-- **AI/ML:** Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API  
-- **Frontend:** React · HTML · CSS · Tailwind CSS  
-- **Currently:** Deep in DSA (Striver's A2Z) + system design fundamentals  
-- **Target roles:** SDE-1 (Backend/Full-Stack) · ML Engineer · AI Engineer  
+- **Backend:** Node.js · Express · MongoDB · REST APIs · JWT · bcrypt
+- **AI/ML:** Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API
+- **Frontend:** React · HTML · CSS · Tailwind CSS
+- **Currently:** Deep in DSA (Striver's A2Z) + system design fundamentals
+- **Target roles:** SDE-1 (Backend/Full-Stack) · ML Engineer · AI Engineer
 
 ---
 
@@ -62,25 +60,29 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 
 ---
 
-<!-- ## Project showcase
+## Project showcase
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/shubhitiwariiii/personalized-voice-assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhitiwariiii&repo=personalized-voice-assistant&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
 
-<!--> **Action needed:** Fork HealthLens into your own GitHub account, then add this line above alongside the existing card:  
-> `<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhitiwariiii&repo=HealthLens&theme=tokyo-night&hide_border=true" />`
-
 ---
 
+## GitHub stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhitiwariiii&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="165"/>
+</p>
+
+---
 
 ## Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=false&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
 </p>
 
 ---
@@ -98,52 +100,6 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shubhitiwariiii&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-<!--## Snake (enable after setup)
-
-<!--
-  SETUP INSTRUCTIONS:
-  1. In this repo (shubhitiwariiii/shubhitiwariiii), create the file:
-     .github/workflows/snake.yml
-  2. Paste this into that file:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: shubhitiwariiii
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Go to Actions tab → Run workflow manually
-  4. Once it succeeds, delete these comment blocks and uncomment the <picture> below
--->
-
-<!--
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhitiwariiii/shubhitiwariiii/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhitiwariiii/shubhitiwariiii/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shubhitiwariiii/shubhitiwariiii/output/github-snake.svg" />
-  </picture>
-</p>
--->
 
 ---
 
