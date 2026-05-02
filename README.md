@@ -64,7 +64,7 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 ## Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=false&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=false&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </p>
 
 ---
