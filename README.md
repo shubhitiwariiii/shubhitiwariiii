@@ -1,81 +1,89 @@
-<!-- ================== PROFESSIONAL DARK PROFILE ================== -->
-
-<h1 align="center">Shubhi Tiwari</h1>
+<h1 align="center">Hi, I'm Shubhi Tiwari 👋</h1>
 
 <p align="center">
-  Building scalable backend systems and applied AI projects.
+  <b>Computer Science Undergraduate · AI & ML Specialization</b><br/>
+  GCET, Greater Noida &nbsp;|&nbsp; Expected Graduation: 2028 &nbsp;|&nbsp; CGPA: 7.86 / 10
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Building+secure+APIs+and+scalable+web+apps;DSA+Practice"
-  />
-</p>
-
----
-
-## About
-
-- **Backend / Full‑Stack:** Node.js, Express, MongoDB (Mongoose), REST APIs, JWT authentication
-- **ML/AI:** Python, scikit‑learn (Naive Bayes, CountVectorizer), voice pipelines, LLM tooling (Ollama + LLaMA3)
-- **DSA:** consistent practice with pattern-based learning
-
-**Target roles:** SDE‑1 (Full‑Stack/Backend) • ML Engineer • AI Engineer
-
-<br clear="right"/>
-
----
-
-## What I’m working on
-
-- Striver **A2Z DSA Sheet** + topic‑wise practice
-- **LeetCode** problem solving (patterns + clean solutions)
-- System design fundamentals (APIs, databases, scalability)
-- Building production‑style projects with clean architecture
-
----
-
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
-</p>
-
-- **Languages:** C++, Python, JavaScript  
-- **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB (Mongoose)  
-- **Auth/Security:** JWT, bcrypt  
-- **ML/AI:** scikit‑learn, SpeechRecognition, pyttsx3, Ollama (LLaMA3)  
-- **Tools:** Git, GitHub, VS Code  
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shubhitiwariiii&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub streak"
-  />
+  <a href="https://www.linkedin.com/in/shubhi-tiwari-664553329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/shubhitiwariiii/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="mailto:shubhitiwari0132@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Contribution activity
+## About Me
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=react-dark&hide_border=true"
-    alt="Contribution graph"
-  />
-</p>
+I'm a 2nd-year CS student specializing in AI & ML, actively building skills in
+full-stack development and data structures & algorithms. I enjoy turning ideas
+into functional products — whether it's an AI-powered health tool built at a
+hackathon or a voice assistant that talks back.
+
+Currently preparing for SDE and ML roles, with a focused approach: DSA-first,
+project-driven ML, and consistent competitive programming practice.
 
 ---
 
-## Featured projects
+## 🛠 Tech Stack
 
-- **Personalized Voice Assistant** — Desktop voice assistant with speech I/O, ML-based intent classification, and local LLM responses.  
-  Repo: https://github.com/shubhitiwariiii/personalized-voice-assistant  
-  **Tech:** Python • scikit‑learn (Naive Bayes, CountVectorizer) • SpeechRecognition • pyttsx3 • Ollama (LLaMA3) • Tkinter • JSON  
+**Languages:** Java · Python · JavaScript · C++
+**Frontend:** React · Tailwind CSS · HTML/CSS
+**Backend:** Node.js · Express
+**AI / ML:** Google Gemini API · NLP basics
+**Tools & Platforms:** Git · GitHub · Firebase · VS Code
+
+---
+
+## 🚀 Projects
+
+### [HealthLens](https://github.com/shubhitiwariiii/HealthLens) &nbsp;·&nbsp; *HackDays 2026*
+AI-powered medical report analyzer that helps patients understand complex lab
+reports in plain language.
+**Stack:** React 19 · Node.js · Google Gemini AI · Firebase · Tailwind CSS
+
+---
+
+### [Personalised Voice Assistant](https://github.com/shubhitiwariiii/personalized-voice-assistant)
+A custom voice assistant built in Python that handles real-time voice input,
+processes commands, and responds intelligently.
+**Stack:** Python · SpeechRecognition · NLP
+
+---
+
+## 📈 DSA Progress
+
+- Following **Striver's A2Z DSA Sheet** on LeetCode
+- Topics covered: Arrays · Binary Search · Strings · Linked Lists
+- Practice focus: all easy problems, ~70–80% of mediums, frequently-asked hards
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shubhitiwariiii?theme=light&font=Nunito&ext=heatmap)](https://leetcode.com/shubhitiwariiii/)
+
+---
+
+## 🎯 Currently
+
+
+
+---
+
+## 📬 Reach Me
+
+**Email:** shubhitiwari0132@gmail.com
+**LinkedIn:** [linkedin.com/in/shubhi-tiwari-664553329](https://www.linkedin.com/in/shubhi-tiwari-664553329/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhitiwariiii&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
