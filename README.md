@@ -16,10 +16,6 @@
 
 ## About
 
-<img align="right" height="155" alt="Coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-I’m a developer focused on **shipping reliable software** and strengthening fundamentals in **DSA, system design, and applied ML/AI**.
-
 - **Backend / Full‑Stack:** Node.js, Express, MongoDB (Mongoose), REST APIs, JWT authentication
 - **ML/AI:** Python, scikit‑learn (Naive Bayes, CountVectorizer), voice pipelines, LLM tooling (Ollama + LLaMA3)
 - **DSA:** consistent practice with pattern-based learning
