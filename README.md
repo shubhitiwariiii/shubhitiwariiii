@@ -4,7 +4,7 @@
 </p>
 
 <!-- Name -->
-<h1 align="center">Hey, I'm Shubhi Tiwari 👋</h1>
+<h1 align="center">Hey, I'm Shubhi Tiwari </h1>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -17,7 +17,7 @@
 
 I build backend systems that actually hold up — clean APIs, solid auth, and occasionally, AI that does something useful.
 
-Currently in my 3rd year of CS (AI & ML specialization), based in India. I take on **remote work and freelance projects** — if you need a backend built right, let's talk.
+Currently in my 2nd year of CS (AI & ML specialization). I take on **remote work and freelance projects** — if you need a backend built right, let's talk.
 
 - **Backend:** Node.js · Express · MongoDB · REST APIs · JWT · bcrypt  
 - **AI/ML:** Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API  
@@ -75,14 +75,7 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 
 ---
 
-## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhitiwariiii&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="165"/>
-</p>
-
----
 
 ## Streak
 
