@@ -15,7 +15,7 @@
 
 I build backend systems that actually hold up — clean APIs, solid auth, and occasionally, AI that does something useful.
 
-Currently in my 3rd year of CS (AI & ML specialization). I take on **remote work and freelance projects** — if you need a backend built right, let's talk.
+Currently in my 3rd year of CS (AI & ML specialization).
 
 - **Backend:** Node.js · Express · MongoDB · REST APIs · JWT · bcrypt
 - **AI/ML:** Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API
