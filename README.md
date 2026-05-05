@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=shubhitiwariiii&color=0ea5e9&style=flat-square&label=Profile+views" />
 </p>
 
-<h1 align="center">Hey, I'm Shubhi Tiwari 👋</h1>
+<h1 align="center">Hey, I'm Shubhi Tiwari </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+Developer;REST+APIs+%7C+Auth+%7C+Node.js;Applied+AI+%7C+Python+%7C+scikit-learn;Open+to+remote+work+%26+freelance" />
