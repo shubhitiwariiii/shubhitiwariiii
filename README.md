@@ -81,7 +81,6 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 ## Currently working on
 
 - Striver's A2Z DSA — Binary Search → Strings → Linked Lists (daily practice)
-- System design fundamentals — APIs, databases, scalability patterns
 - Next project: backend-heavy build with proper auth, rate limiting, and clean API design
 
 ---
