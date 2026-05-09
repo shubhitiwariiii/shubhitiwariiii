@@ -98,7 +98,3 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <i>Open to backend freelance work, remote internships, and interesting collabs. I check my email — response time is fast.</i>
-</p>
