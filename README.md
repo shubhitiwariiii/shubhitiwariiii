@@ -60,7 +60,8 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 
 ---
 
-**💸 AI Spend Auditor**
+### Ai Spend Auditor
+
 `Next.js` `TypeScript` `React` `Tailwind CSS`
 
 A web app that helps startups and developers audit their AI tooling expenses — analyzes subscriptions across ChatGPT, Claude, Cursor, GitHub Copilot, Gemini, and more. Surfaces savings opportunities with a dynamic recommendations dashboard and estimated monthly/annual cost reductions.
