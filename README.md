@@ -56,8 +56,19 @@ Currently in my 2nd year of CS (AI & ML specialization).
 ![Ollama](https://img.shields.io/badge/Ollama_LLaMA3-000000?style=flat-square&logo=ollama&logoColor=white)
 
 Speech I/O · Naive Bayes intent classification · Persistent memory · Local LLM  
-[View Repo →](https://github.com/shubhitiwariiii/personalized-voice-assistant)
+[View Repo →](https://github.com/shubhitiwariiii/personalized-voice-assistant
 
+
+**💸 AI Spend Auditor**
+`Next.js` `TypeScript` `React` `Tailwind CSS`
+
+A web app that helps startups and developers audit their AI tooling expenses — analyzes subscriptions across ChatGPT, Claude, Cursor, GitHub Copilot, Gemini, and more. Surfaces savings opportunities with a dynamic recommendations dashboard and estimated monthly/annual cost reductions.
+
+🔗 [View Repository](https://github.com/shubhitiwariiii/ai-spend-audit)
+
+---
+
+This reflects the actual stack (Next.js + TypeScript, not Python), the multi-tool support, and the savings dashboard as a key feature. Want me to add a live demo badge or status note like `[MVP Complete · Backend In Progress]`?
 ---
 
 
