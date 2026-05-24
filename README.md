@@ -60,18 +60,6 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 
 ---
 
-### AI Spend Auditor
-> A web app that helps startups and developers audit their AI tooling expenses — analyzes subscriptions across ChatGPT, Claude, Cursor, GitHub Copilot, Gemini, and more. Surfaces savings opportunities with a dynamic recommendations dashboard and estimated monthly/annual cost reductions.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[View Repo →](https://github.com/shubhitiwariiii/ai-spend-audit)
-
-
----
 
 
 ## Streak
