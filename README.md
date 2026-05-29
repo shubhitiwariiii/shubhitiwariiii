@@ -59,7 +59,20 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 [View Repo →](https://github.com/shubhitiwariiii/personalized-voice-assistant
 
 ---
+### Daily Wage Tracker — MERN Stack
+> Full-stack wage and attendance management system for contractors and workers. Built for those who don't speak spreadsheet.
 
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+JWT authentication · Worker & attendance management · PDF report generation · Vercel + Render + MongoDB Atlas  
+[View Repo →](https://github.com/shubhitiwariiii/daily-wage-tracker)
+
+---
 
 
 ## Streak
