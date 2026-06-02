@@ -15,13 +15,13 @@
 
 I build backend systems that actually hold up — clean APIs, solid auth, and occasionally, AI that does something useful.
 
-Currently in my 2nd year of CS (AI & ML specialization).
+Currently in my 3rd year of CS (AI & ML specialization).
 
 - **Backend:** Node.js · Express · MongoDB · REST APIs · JWT · bcrypt
 - **AI/ML:** Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API
 - **Frontend:** React · HTML · CSS · Tailwind CSS
 - **Currently:** Deep in DSA (Striver's A2Z) + system design fundamentals
-- **Target roles:** SDE-1 (Backend/Full-Stack) · ML Engineer · AI Engineer
+- **Target roles:** SDE-1 (Backend/Full-Stack) · Software Engineer
 
 ---
 
