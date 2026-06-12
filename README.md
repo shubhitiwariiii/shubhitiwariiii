@@ -73,6 +73,19 @@ JWT authentication · Worker & attendance management · PDF report generation ·
 [View Repo →](https://github.com/shubhitiwariiii/daily-wage-tracker)
 
 ---
+### First-Gen Guidance OS — AI Scholarship Platform
+> AI-powered scholarship & career guidance for first-generation Indian students. Built for the 600M+ who had no one to ask.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+AI scholarship matcher · Multi-step onboarding · Student profile DB · Row Level Security · Deployed on Vercel  
+[View Repo →](https://github.com/shubhitiwariiii/first-gen-guidance) · [Live Demo →](https://first-gen-guidance.vercel.app)
+
+---
 
 
 ## Streak
