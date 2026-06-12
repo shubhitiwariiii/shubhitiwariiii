@@ -16,20 +16,6 @@ Selected for **GSSoC 2026** (AI Agents Track). Targeting SDE / ML Engineer roles
 
 ---
 
-## Numbers
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-250%2B_problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.4%2F10-0ea5e9?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GSSoC_2026-AI_Agents_Track-6366f1?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Graduation-2028-10b981?style=flat-square" />
-</p>
-
----
-
 ## What I work with
 
 **Backend** — Node.js · Express · MongoDB · REST APIs · JWT · bcrypt  
