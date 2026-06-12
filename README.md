@@ -10,7 +10,7 @@
 
 ---
 
-I'm a CS undergrad (AI & ML specialization, CGPA 8.4) who builds things that work in production — not just demos. I write backend systems with real auth, real error handling, and real data. Currently going deep on DSA and system design fundamentals.
+I'm a CS undergrad (AI & ML specialization, CGPA 8) who builds things that work in production — not just demos. I write backend systems with real auth, real error handling, and real data. Currently going deep on DSA and system design fundamentals.
 
 Selected for **GSSoC 2026** (AI Agents Track). Targeting SDE / ML Engineer roles at product-based companies.
 
