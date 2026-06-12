@@ -1,34 +1,44 @@
-<!-- Profile view counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhitiwariiii&color=0ea5e9&style=flat-square&label=Profile+views" />
 </p>
 
-<h1 align="center">Hey, I'm Shubhi Tiwari </h1>
+<h1 align="center">Shubhi Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+Developer;REST+APIs+%7C+Auth+%7C+Node.js;Applied+AI+%7C+Python+%7C+scikit-learn;Open+to+remote+work+%26+freelance" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0EA5E9¢er=true&vCenter=true&width=600&lines=CS+%28AI+%26+ML%29+%E2%80%94+3rd+Year+%40+GCET;Backend+%7C+Full-Stack+%7C+Applied+AI;250%2B+LeetCode+Problems+Solved;Open+to+SDE+%2F+AI+Engineer+Internships" />
 </p>
 
 ---
 
-## About me
+I'm a CS undergrad (AI & ML specialization, CGPA 8.4) who builds things that work in production — not just demos. I write backend systems with real auth, real error handling, and real data. Currently going deep on DSA and system design fundamentals.
 
-I build backend systems that actually hold up — clean APIs, solid auth, and occasionally, AI that does something useful.
-
-Currently in my 3rd year of CS (AI & ML specialization).
-
-- **Backend:** Node.js · Express · MongoDB · REST APIs · JWT · bcrypt
-- **AI/ML:** Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API
-- **Frontend:** React · HTML · CSS · Tailwind CSS
-- **Currently:** Deep in DSA (Striver's A2Z) + system design fundamentals
-- **Target roles:** SDE-1 (Backend/Full-Stack) · Software Engineer
+Selected for **GSSoC 2026** (AI Agents Track). Targeting SDE / ML Engineer roles at product-based companies.
 
 ---
 
-## Tech stack
+## Numbers
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,react,python,cpp,git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/LeetCode-250%2B_problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-8.4%2F10-0ea5e9?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GSSoC_2026-AI_Agents_Track-6366f1?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Graduation-2028-10b981?style=flat-square" />
+</p>
+
+---
+
+## What I work with
+
+**Backend** — Node.js · Express · MongoDB · REST APIs · JWT · bcrypt  
+**AI/ML** — Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API  
+**Frontend** — React · Next.js · TypeScript · Tailwind CSS  
+**Tools** — Git · GitHub · Vercel · Render · MongoDB Atlas · Firebase · Supabase  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,react,python,cpp,nextjs,ts,git&theme=dark" />
 </p>
 
 ---
@@ -88,40 +98,38 @@ AI scholarship matcher · Multi-step onboarding · Student profile DB · Row Lev
 ---
 
 
-## Streak
+## GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=false&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </p>
 
----
-
-## Contribution graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-
 ---
 
-## Currently working on
+## What I'm building toward
 
-- Striver's A2Z DSA — Binary Search → Strings → Linked Lists (daily practice)
-- Next project: backend-heavy build with proper auth, rate limiting, and clean API design
+- **DSA** — Striver's A2Z: Binary Search → Strings → Linked Lists (daily, no skip days)
+- **Next build** — backend-heavy project: proper auth, rate limiting, clean API design
+- **Long-term** — SDE-1 or ML Engineer at a product company by 2027 campus placements
 
 ---
-
-## Connect with me
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/shubhi-tiwari-664553329">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/shubhitiwariiii">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  &nbsp;
   <a href="mailto:shubhitiwari0132@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+  
