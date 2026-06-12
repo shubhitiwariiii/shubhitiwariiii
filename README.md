@@ -5,7 +5,7 @@
 <h1 align="center">Shubhi Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0EA5E9¢er=true&vCenter=true&width=600&lines=CS+%28AI+%26+ML%29+%E2%80%94+3rd+Year+%40+GCET;Backend+%7C+Full-Stack+%7C+Applied+AI;250%2B+LeetCode+Problems+Solved;Open+to+SDE+%2F+AI+Engineer+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+Developer;REST+APIs+%7C+Auth+%7C+Node.js;Applied+AI+%7C+Python+%7C+scikit-learn;Open+to+remote+work+%26+freelance" />
 </p>
 
 ---
