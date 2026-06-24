@@ -31,6 +31,20 @@ Selected for **GSSoC 2026** (AI Agents Track). Targeting SDE / ML Engineer roles
 
 ## Featured projects
 
+### ShelfSpace — Library & Study Space Discovery
+> Discover libraries and study spaces near you — pricing, timings, and amenities, all in one map. Built on a real ingestion pipeline, not five hardcoded entries.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+
+Decoupled OSM ingestion pipeline · Idempotent upserts · Row Level Security · Provider-agnostic schema  
+[View Repo →](https://github.com/shubhitiwariiii/shelfspace)
+
+---
+
 ### HealthLens — AI Medical Report Analyzer
 > Upload a medical report and get a plain-English explanation of what it says. Built for patients who don't speak doctor.
 
@@ -52,7 +66,7 @@ Selected for **GSSoC 2026** (AI Agents Track). Targeting SDE / ML Engineer roles
 ![Ollama](https://img.shields.io/badge/Ollama_LLaMA3-000000?style=flat-square&logo=ollama&logoColor=white)
 
 Speech I/O · Naive Bayes intent classification · Persistent memory · Local LLM  
-[View Repo →](https://github.com/shubhitiwariiii/personalized-voice-assistant
+[View Repo →](https://github.com/shubhitiwariiii/personalized-voice-assistant)
 
 ---
 ### Daily Wage Tracker — MERN Stack
@@ -118,4 +132,3 @@ AI scholarship matcher · Multi-step onboarding · Student profile DB · Row Lev
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-  
