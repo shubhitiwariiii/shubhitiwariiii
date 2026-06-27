@@ -1,158 +1,134 @@
-<div align="center">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shubhitiwariiii&color=0ea5e9&style=flat-square&label=Profile+views" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0284C7&height=180&section=header&text=Shubhi%20Tiwari&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend-leaning%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=18&animation=fadeIn" />
+<h1 align="center">Shubhi Tiwari</h1>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+Developer;REST+APIs+%7C+Auth+%7C+Node.js;Applied+AI+%7C+Python+%7C+scikit-learn;Open+to+remote+work+%26+freelance" />
+</p>
 
-<img src="https://img.shields.io/badge/CGPA-8.0-0EA5E9?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/GSSoC_2026-AI_Agents_Track-0EA5E9?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Open_to-Remote_%26_Freelance-0EA5E9?style=for-the-badge&labelColor=1a1a2e" />
+---
 
-<br/><br/>
+I'm a CS undergrad (AI & ML specialization, CGPA 8) who builds things that work in production — not just demos. I write backend systems with real auth, real error handling, and real data. Currently going deep on DSA and system design fundamentals.
 
-I write backend systems with real auth, real error handling, and real data — not demo-shaped versions of them.<br/>
-Currently deep in DSA and system design, one topic at a time.
+Selected for **GSSoC 2026** (AI Agents Track). Targeting SDE / ML Engineer roles at product-based companies.
 
-<br/>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhi-tiwari-664553329)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shubhitiwariiii)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhitiwari0132@gmail.com)
+## What I work with
 
-</div>
+**Backend** — Node.js · Express · MongoDB · REST APIs · JWT · bcrypt  
+**AI/ML** — Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API  
+**Frontend** — React · Next.js · TypeScript · Tailwind CSS  
+**Tools** — Git · GitHub · Vercel · Render · MongoDB Atlas · Firebase · Supabase  
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,react,python,cpp,nextjs,ts,git&theme=dark" />
+</p>
 
-## 🧰 Tech I work with
+---
 
-<div align="center">
+## Featured projects
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,nextjs,ts,js,python,postgres,git&theme=dark&perline=10" />
+### ShelfSpace — Library & Study Space Discovery
+> Discover libraries and study spaces near you — pricing, timings, and amenities, all in one map. Built on a real ingestion pipeline, not five hardcoded entries.
 
-</div>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
-<br/>
+Decoupled OSM ingestion pipeline · Idempotent upserts · Row Level Security · Provider-agnostic schema  
+[View Repo →](https://github.com/shubhitiwariiii/shelf-space.git)
 
-## 💡 Featured work
+---
 
-<br/>
+### HealthLens — AI Medical Report Analyzer
+> Upload a medical report and get a plain-English explanation of what it says. Built for patients who don't speak doctor.
 
-<table>
-<tr>
-<td width="100%">
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🎓 First-Gen Guidance
-**AI-powered scholarship & career guidance for first-generation Indian students**
+🏆 Built at **HackDays 2026** · [View Repo →](https://github.com/AnubhavGitHub07/HealthLens)
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+---
 
-Matches students to scholarships with an AI scoring layer, full onboarding flow, and a built-in mentor Q&A system — replacing what used to be an unsearchable WhatsApp thread.
+### Personalized Voice Assistant
+> Not another Siri clone. This one remembers past conversations and uses that memory in future responses — powered by a local LLM.
 
-**[🔗 Live Demo](https://first-gen-guidance.vercel.app)** &nbsp;·&nbsp; **[📦 Repository](https://github.com/shubhitiwariiii/first-gen-guidance)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_LLaMA3-000000?style=flat-square&logo=ollama&logoColor=white)
 
-</td>
-</tr>
-</table>
+Speech I/O · Naive Bayes intent classification · Persistent memory · Local LLM  
+[View Repo →](https://github.com/shubhitiwariiii/personalized-voice-assistant)
 
-<br/>
+---
+### Daily Wage Tracker — MERN Stack
+> Full-stack wage and attendance management system for contractors and workers. Built for those who don't speak spreadsheet.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 📚 ShelfSpace
-**Library & study space discovery**
+JWT authentication · Worker & attendance management · PDF report generation · Vercel + Render + MongoDB Atlas  
+[View Repo →](https://github.com/shubhitiwariiii/daily-wage-tracker)
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/OSM-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
+---
+### First-Gen Guidance OS — AI Scholarship Platform
+> AI-powered scholarship & career guidance for first-generation Indian students. Built for the 600M+ who had no one to ask.
 
-Maps nearby libraries and study spaces with live pricing and amenities, fed by a real OpenStreetMap ingestion pipeline — not a hardcoded list.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**[📦 Repository](https://github.com/shubhitiwariiii/shelf-space.git)**
+AI scholarship matcher · Multi-step onboarding · Student profile DB · Row Level Security · Deployed on Vercel  
+[View Repo →](https://github.com/shubhitiwariiii/first-gen-guidance) · [Live Demo →](https://first-gen-guidance.vercel.app)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🩺 HealthLens
-**AI medical report analyzer**
 
-<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+## GitHub activity
 
-Turns uploaded medical reports into plain-language explanations. Built at HackDays 2026.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=false&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+</p>
 
-**[📦 Repository](https://github.com/AnubhavGitHub07/HealthLens)**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 💰 Daily Wage Tracker
-**Wage & attendance management**
+## What I'm building toward
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+- **DSA** — Striver's A2Z: Binary Search → Strings → Linked Lists (daily, no skip days)
+- **Next build** — backend-heavy project: proper auth, rate limiting, clean API design
+- **Long-term** — SDE-1 or ML Engineer at a product company by 2027 campus placements
 
-Tracks attendance and computes wages for contractors, with PDF export and JWT auth across split frontend/backend deployments.
+---
+## Connect
 
-**[📦 Repository](https://github.com/shubhitiwariiii/daily-wage-tracker)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Voice Assistant
-**Local LLM with persistent memory**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-
-Remembers past conversations and uses that context in future responses, powered by a local LLaMA 3 instance.
-
-**[📦 Repository](https://github.com/shubhitiwariiii/personalized-voice-assistant)**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎯 Currently focused on
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**DSA**
-Striver's A2Z sheet — Recursion & Backtracking → Trees → Graphs → DP
-
-</td>
-<td width="33%" valign="top">
-
-**System Design**
-Self-built 70-topic syllabus, tracked across Notion, Anki, and a physical notebook
-
-</td>
-<td width="33%" valign="top">
-
-**Next Build**
-A backend-first project centered on auth done right and real rate limiting
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhitiwariiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" width="48%" />
-<img src="https://streak-stats.demolab.com?user=shubhitiwariiii&theme=tokyo-night&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9" width="48%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0EA5E9&height=100&section=footer" />
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/shubhi-tiwari-664553329">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/shubhitiwariiii">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="mailto:shubhitiwari0132@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
