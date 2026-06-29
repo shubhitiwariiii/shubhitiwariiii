@@ -1,30 +1,27 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shubhitiwariiii&color=0ea5e9&style=flat-square&label=Profile+views" />
+  shubhitiwariiii / README.md
 </p>
 
 <h1 align="center">Shubhi Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+Developer;REST+APIs+%7C+Auth+%7C+Node.js;Applied+AI+%7C+Python+%7C+scikit-learn;Open+to+remote+work+%26+freelance" />
+  🎯 CS undergrad (AI & ML specialization) who builds things that work in production — not just demos.<br/>
+  Shipped a library discovery platform, an AI scholarship matcher, and a full-stack wage tracker.<br/>
+  Selected for GSSoC 2026 (AI Agents Track) · Open to SDE / ML Engineer opportunities · Let's build something real.
 </p>
-
----
-
-I'm a CS undergrad (AI & ML specialization, CGPA 8) who builds things that work in production — not just demos. I write backend systems with real auth, real error handling, and real data. Currently going deep on DSA and system design fundamentals.
-
-Selected for **GSSoC 2026** (AI Agents Track). Targeting SDE / ML Engineer roles at product-based companies.
 
 ---
 
 ## What I work with
 
-**Backend** — Node.js · Express · MongoDB · REST APIs · JWT · bcrypt  
-**AI/ML** — Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API  
-**Frontend** — React · Next.js · TypeScript · Tailwind CSS  
-**Tools** — Git · GitHub · Vercel · Render · MongoDB Atlas · Firebase · Supabase  
+**Backend** — Node.js · Express · MongoDB · REST APIs · JWT · bcrypt
+**AI/ML** — Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API
+**Frontend** — React · Next.js · TypeScript · Tailwind CSS
+**Database** — Supabase · MongoDB Atlas · Firebase
+**Tools** — Git · GitHub · Vercel · Render
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,react,python,cpp,nextjs,ts,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,js,mongodb,python,cpp,java,git&theme=dark" />
 </p>
 
 ---
@@ -40,7 +37,7 @@ Selected for **GSSoC 2026** (AI Agents Track). Targeting SDE / ML Engineer roles
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
-Decoupled OSM ingestion pipeline · Idempotent upserts · Row Level Security · Provider-agnostic schema  
+Decoupled OSM ingestion pipeline · Idempotent upserts · Row Level Security · Provider-agnostic schema
 [View Repo →](https://github.com/shubhitiwariiii/shelf-space.git)
 
 ---
@@ -65,7 +62,7 @@ Decoupled OSM ingestion pipeline · Idempotent upserts · Row Level Security · 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama_LLaMA3-000000?style=flat-square&logo=ollama&logoColor=white)
 
-Speech I/O · Naive Bayes intent classification · Persistent memory · Local LLM  
+Speech I/O · Naive Bayes intent classification · Persistent memory · Local LLM
 [View Repo →](https://github.com/shubhitiwariiii/personalized-voice-assistant)
 
 ---
@@ -79,7 +76,7 @@ Speech I/O · Naive Bayes intent classification · Persistent memory · Local LL
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-JWT authentication · Worker & attendance management · PDF report generation · Vercel + Render + MongoDB Atlas  
+JWT authentication · Worker & attendance management · PDF report generation · Vercel + Render + MongoDB Atlas
 [View Repo →](https://github.com/shubhitiwariiii/daily-wage-tracker)
 
 ---
@@ -92,7 +89,7 @@ JWT authentication · Worker & attendance management · PDF report generation ·
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-AI scholarship matcher · Multi-step onboarding · Student profile DB · Row Level Security · Deployed on Vercel  
+AI scholarship matcher · Multi-step onboarding · Student profile DB · Row Level Security · Deployed on Vercel
 [View Repo →](https://github.com/shubhitiwariiii/first-gen-guidance) · [Live Demo →](https://first-gen-guidance.vercel.app)
 
 ---
