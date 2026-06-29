@@ -1,6 +1,4 @@
-<p align="left">
-  shubhitiwariiii / README.md
-</p>
+
 
 <h1 align="center">Shubhi Tiwari</h1>
 
