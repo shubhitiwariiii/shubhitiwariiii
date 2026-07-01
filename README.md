@@ -38,18 +38,6 @@
 Decoupled OSM ingestion pipeline · Idempotent upserts · Row Level Security · Provider-agnostic schema
 [View Repo →](https://github.com/shubhitiwariiii/shelf-space.git)
 
----
-
-### HealthLens — AI Medical Report Analyzer
-> Upload a medical report and get a plain-English explanation of what it says. Built for patients who don't speak doctor.
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-🏆 Built at **HackDays 2026** · [View Repo →](https://github.com/AnubhavGitHub07/HealthLens)
 
 ---
 
