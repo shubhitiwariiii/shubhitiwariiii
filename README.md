@@ -36,8 +36,7 @@
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
 Decoupled OSM ingestion pipeline · Idempotent upserts · Row Level Security · Provider-agnostic schema
-[View Repo →](https://github.com/shubhitiwariiii/shelf-space.git)
-[Live Demo →](https://self-spacee.vercel.app)
+[View Repo →](https://github.com/shubhitiwariiii/shelf-space.git) [Live Demo →](https://self-spacee.vercel.app)
 
 
 ---
