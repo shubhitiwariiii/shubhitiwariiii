@@ -3,9 +3,9 @@
 <h1 align="center">Shubhi Tiwari</h1>
 
 <p align="center">
-  🎯 CS undergrad (AI & ML specialization) who builds things that work in production — not just demos.<br/>
-  Shipped a library discovery platform, an AI scholarship matcher, and a full-stack wage tracker.<br/>
-  Selected for GSSoC 2026 (AI Agents Track) · Open to SDE / ML Engineer opportunities · Let's build something real.
+  🎯 CS undergraduate specializing in AI & ML, who enjoys building projects and solving problems.
+  Currently exploring full-stack development, AI, and DSA while learning by doing.
+  Always curious, always building, and looking for opportunities to grow.
 </p>
 
 ---
