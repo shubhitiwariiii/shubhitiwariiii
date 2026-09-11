@@ -12,10 +12,10 @@
 
 ## What I work with
 
-**Backend** — Node.js · Express · MongoDB · REST APIs · JWT · bcrypt
-**AI/ML** — Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API
-**Frontend** — React · Next.js · TypeScript · Tailwind CSS
-**Database** — Supabase · MongoDB Atlas · Firebase
+**Backend** — Node.js · Express · MongoDB · REST APIs · JWT · bcrypt<br>
+**AI/ML** — Python · scikit-learn · Ollama (LLaMA3) · Google Gemini API<br>
+**Frontend** — React · Next.js · TypeScript · Tailwind CSS<br>
+**Database** — Supabase · MongoDB Atlas · Firebase<br>
 **Tools** — Git · GitHub · Vercel · Render
 
 
