@@ -98,7 +98,7 @@ JWT authentication · Worker & attendance management · PDF report generation ·
 </p>
 
 <p align="center">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhitiwariiii&theme=tokyo-night&hide_border=true&area=true" />
+  <img alt="GitHub contribution chart" src="https://ghchart.rshah.org/0EA5E9/shubhitiwariiii" />
 </p>
 
 ---
